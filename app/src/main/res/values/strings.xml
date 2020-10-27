@@ -2,4 +2,27 @@
     <string name="app_name">About Me</string>
     <string name="nome">Angélica</string>
     <string name="yellow_start">estrella amarela</string>
+    <string name="bio_text">
+        Estudou 2 anos de Química na Universidad \n
+        Industrial de Santander (UIS-Colômbia). \n
+        Atualmente faz parte da 4 Edição de Woman Can Code, \n
+        foi bolsista do curso Front-End Coding Facebook, \n
+        promovido pela Facebook e \n
+        ministrada pela Digital House. \n
+        Tem conhecimentos em Front-End, \n
+        usando HTML, CSS, Javascript, \n
+        consulta API REST e Bootstrap. \n
+        Possui experiência \n
+        com liderança \n
+        de equipes multifuncionais, \n
+        uso do sistema SAP e Intranet, \n
+        portal de gente e Topdesk. \n
+        Tem interesse na \n
+        transição de carreira \n
+        para a área da tecnologia. \n
+        Possui fluência \n
+        em duas línguas: \n
+        Espanhol-Nativo e \n
+        Português-Fluente.
+    </string>
 </resources>
